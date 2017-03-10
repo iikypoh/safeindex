@@ -1,0 +1,2 @@
+# safeindex
+file safeindex
